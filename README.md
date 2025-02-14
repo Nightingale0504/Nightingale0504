@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on interesting and innovative projects.
 - 💬 Ask me about web development, coding best practices, and open-source contributions.
 - 📫 How to reach me: [Email](mailto:capture4869@gmail.com)
-- 😄 Pronouns: He
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: I love exploring new places and trying out different cuisines.
 
 ## GitHub Stats
